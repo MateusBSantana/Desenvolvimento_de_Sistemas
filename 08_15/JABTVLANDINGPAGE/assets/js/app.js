@@ -1,4 +1,4 @@
-// Hamburger menu selections
+/*// Hamburger menu selections
 
 // scroll-to-top selection
 <script>
@@ -44,4 +44,4 @@ scrollUp.addEventListener("click", () => {
   });
 });
 
-// Theme switcher functionality
+// Theme switcher functionality*/
