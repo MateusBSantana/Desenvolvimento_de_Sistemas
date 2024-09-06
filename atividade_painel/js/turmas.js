@@ -53,8 +53,8 @@ let aulas = [
         "data_hora_fim": "2024-08-29T22:00:00.000Z",
         "turma": "HTC-MEC-4-92",
         "instrutor": "Afonso Cordeiro",
-        "unidade_curricular": "VTRIA-3-Desenho Mecânico",
-        "ambiente": "Lab-3003",
+        "unidade_curricular": "Desenho Mecânico",
+        "ambiente": "VTRIA-3-Lab-3003",
         "chave": null
     },
     {
