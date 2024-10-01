@@ -4,6 +4,12 @@ body, #root, .site{
 .site{
   background-color: #f2f2f2;
 }
+
+img{
+  width: 10%;
+  height: 10%;
+}
+
 .cabecalho{
   background-color: rgb(114, 81, 144);
 }
@@ -18,3 +24,4 @@ body, #root, .site{
   border-bottom: 1px solid #000;
 
 }
+

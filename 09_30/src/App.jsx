@@ -7,7 +7,7 @@ function App() {
       <header className="cabecalho">
         <nav className="container navbar navbar-expand">
           <div>
-            <span className="navbar-brand">Logo</span>
+            <span className="navbar-brand"><img src="perfume.png" alt="" /></span>
           </div>
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
@@ -31,7 +31,7 @@ function App() {
       <main>
         <div className="conteudo mt-3 container">
           <div className="row">
-            <div className="conteudos col-10">
+            <div className="conteudos col-md-10 col-sm-12">
               <h2>Produtos</h2>
               <div className="container produto p-3">
                 <h3>Batom</h3>
@@ -56,7 +56,7 @@ function App() {
                 <button className="btn btn-success">Comprar</button>
               </div>
             </div>
-            <aside className="col-2">
+            <aside className="col-md-2 col-sm-12">
               <h4>Perfumaria</h4>
               <ol className="list-group list-group-numbered">
                 <li className="list-group-item">Sabonete<span className="badge text-bg-primary rounded-pill">8</span></li>
